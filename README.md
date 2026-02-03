@@ -1,6 +1,6 @@
 # 📊 Vrinda Store – Annual Sales Dashboard (Excel)
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Vrinda Store Excel Dashboard](dashboard.png)
 
