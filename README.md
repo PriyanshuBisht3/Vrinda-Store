@@ -1,5 +1,9 @@
 # 📊 Vrinda Store – Annual Sales Dashboard (Excel)
 
+## 📊 Dashboard Preview
+
+![Vrinda Store Excel Dashboard](dashboard.png)
+
 ## 📌 Overview
 This project is an **interactive Excel dashboard** built to analyze the **annual sales performance of Vrinda Store (2022)**.  
 It provides actionable insights into **sales trends, customer demographics, order status, and channel performance** using Excel-based analytics.
